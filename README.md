@@ -8,7 +8,7 @@ Este programa utiliza a webcam do computador para transformar o movimento de obj
 Além disso, a interface permite ajustar diversos filtros visuais em tempo real, como intensidade das bordas, brilho, desfoque e detecção de cor. Isso permite personalizar a experiência visual e sonora de acordo com as preferências do usuário.
 
 # Instruções de uso
-1. Instale o "requirements.txt" e Execute o Programa
+1. Instale as bibliotecas do arquivo "requirements.txt" e execute o Programa
   
 2. Interaja com a Webcam usando objetos vermelhos para tocar notas musicais com base em sua posição.
 
