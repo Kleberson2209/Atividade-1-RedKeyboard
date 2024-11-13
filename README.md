@@ -24,7 +24,7 @@ Além disso, a interface permite ajustar diversos filtros visuais em tempo real,
 4. Pressione a tecla "q" para encerrar o programa.
   
   ![Funcionando-Gif](https://github.com/user-attachments/assets/94c69bbf-26bb-4575-ae21-0cb5521d3a8b)
-# Gif comparando as funções 
+# Gif explicativo 
   ![RedKeyboard-Explicacao-Gif](https://github.com/user-attachments/assets/aacbb6b4-9f49-4d2f-b942-4ea084f7fb4a)
 
 
