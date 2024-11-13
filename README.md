@@ -12,7 +12,7 @@ Além disso, a interface permite ajustar diversos filtros visuais em tempo real,
   
 2. Interaja com a Webcam usando objetos vermelhos para tocar notas musicais com base em sua posição.
 
-3. Ajuste os filtros na janela "Filtros" usando as trackbars:
+3. Ajuste os filtros usando as trackbars:
    
 - Notas: Define o número de regiões do teclado.
 - Detectar: Sensibilidade à cor vermelha.
@@ -22,3 +22,8 @@ Além disso, a interface permite ajustar diversos filtros visuais em tempo real,
 - Blur: Desfoque da imagem.
 - Kernel: Tamanho para operações morfológicas.
 4. Pressione a tecla "q" para encerrar o programa.
+
+  ![Funcionando-Gif](https://github.com/user-attachments/assets/94c69bbf-26bb-4575-ae21-0cb5521d3a8b) ![RedKeyboard-Explicacao-Gif](https://github.com/user-attachments/assets/aacbb6b4-9f49-4d2f-b942-4ea084f7fb4a)
+
+
+
